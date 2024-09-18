@@ -87,3 +87,5 @@ Com base nos resultados obtidos, foi observado que o modelo Transformer apresent
 
 A maior capacidade do Transformer de lidar com dependências de longo prazo e capturar melhor o contexto parece ter sido o fator chave para essa diferença de desempenho. Assim, para tarefas similares de análise de sentimentos, recomenda-se o uso do modelo Transformer.
 
+## 7. Repositório
+Link do GitHub: [SentimentAnalysis](https://github.com/Aldenor-Neto/SentimentAnalysis)
